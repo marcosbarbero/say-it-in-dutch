@@ -97,13 +97,15 @@ Hoe gaat het met hem?
   
 ### Random  
 
-Leuk - _Nice/Good_
-Mooi - _Beautiful_
-Interessant
-Uitstekend - _Excellent_
-Prima
-Jammer - _Pitty_
-Ongeveer - _About/More or less_
+|Nederlands |English    |
+|-----------|-----------|
+|Leuk       |Nice/Good  |
+|Mooi       |Beautiful  |
+|Interessant|Interesting|
+|Uitstekend |Excellent  |
+|Prima      |     -     |
+|Jammer     |Pitty      |
+|Ongeveer   |About - +/-|
 
 Notes
 ---
