@@ -16,29 +16,99 @@ Just a repo to store few notes from dutch lessons.
 | 8 |acht | 18 |achttien | 28 |achtentwintig |
 | 9 |negen| 19 |negentien| 29 |negenentwintig|
 
-### Useful
+### Common questions
 
-Hoe heet je? (What's your name?)
-- Ik heet Marcos. En jij? (My name is Marcos. And yours?)
+Hoe heet je? _What's your name?_
+- Ik heet Marcos. En jij? _My name is Marcos. And yours?_
 
-Aangenaam! (Pleasant!)
+Aangenaam! _Pleasant!_
 
-Hoe spel dat? (How to spell dat?)
+Hoe spel dat? _How to spell that?_
 
-Klopt dat? (Is that right?)
+Klopt dat? _Is that right?_
 - Dat klopt!
 
-Waar woon je? (Where do you live?)
-- Ik woon in Amsterdam. (I live in Amsterdam)
+Waar woon je? _Where do you live?_
+- Ik woon in Amsterdam. _I live in Amsterdam_
 
-Uit welk land kom je? (Where are you from?)
-- Ik kom uit Brazil. (I'm from Brazil)
+Uit welk land kom je? _Where are you from?_
+- Ik kom uit Brazilie. _I'm from Brazil_
 
 Werk je of studeer je?
 - Ik werk
 
-Waar werk je? (Where do you work?)
-- Ik werk in Amsterdam, het bedrijf heet *surprise*. (I work in Amsterdam, the company is called *surprise*)
+Waar werk je? _Where do you work?_
+- Ik werk in Amsterdam, het bedrijf heet **surprise**. _I work in Amsterdam, the company is called **surprise**_
 
-Hoe oud ben je? (How old are you?)
-- Vierendertig
+Hoe oud ben je? _How old are you?_
+- Ik bean vierendertig
+
+Heb je het druk? _Are you busy?_
+- Ik heb (niet) het druk. _I'm (not) busy_
+
+Wat voor werk doe je? _What kind of work do you do?_
+- Ik werk als Softwer Engineer bij **surprise**.
+
+Hoe lang bent u in Nederland?
+- Ik ben tien maanden in het Nederland.
+- Ik ben hier tien maanden.
+
+Ik wil mij even voorstellen. _I would like to introduce myself_
+- Ik ben de nieuwe buurman.
+Op welk nummer woon je?
+- Op nummer 113 (honderddertien)
+
+Hoe gaat het?
+- het gaat goed
+- het gaat niet zo goed
+- het gaat slecht
+
+Heb jij een collega?
+- Ja
+Hoe heet hij?
+- Hij heet **Fulano**.
+Hoe oud is hij?
+- Hij is 33.
+Hoe gaat het met hem?
+- Met hem gaat het goed, denk ik.
+
+
+### Greetings
+
+ - Goedendag
+ - Goedemorgen
+ - GoedMiddag
+ - Goedenavond
+ 
+ - Tot ziens!
+ - Tot straks!
+ - Tot zo! _See you soon_
+ - Tot morgen!
+ - Tot maandag!
+ - Tot volgende keer! _See you next time_
+ - Tot volgend jaar! _See you next year_
+ - Tot later!
+ - Tot woensdag!
+ 
+ ### Formal
+ 
+  - U
+  - Menner / Mevrow
+  
+### Random  
+
+Leuk - _Nice/Good_
+Mooi - _Beautiful_
+Interessant
+Uitstekend - _Excellent_
+Prima
+Jammer - _Pitty_
+Ongeveer - _About/More or less_
+
+Notes
+---
+Always add the verb right after the subject pronouns, e.g.
+
+Werk je of studeer je?
+- Ik werk
+Ik **werk** ook.
