@@ -8,7 +8,7 @@ Just a repo to store few notes from dutch lessons.
 | 0 |nul  | 10 |tien     | 20 |twintig       | 30 |dertig        | 40 |veertig       | 50   |vijftig             |
 | 1 |een  | 11 |elf      | 21 |eenentwintig  | 31 |eenendertig   | 41 |eenenveertig  | 60   |zestig              |
 | 2 |twee | 12 |twaalf   | 22 |tweenentwintig| 32 |tweeendertig  | 42 |tweeenveertig | 70   |zeventig            |
-| 3 |drie | 13 |dertien  | 23 |drieentwintig | 33 |drieendertig  | 43 |drieenveertig | 80   |achttig             |
+| 3 |drie | 13 |dertien  | 23 |drieentwintig | 33 |drieendertig  | 43 |drieenveertig | 80   |tachtig             |
 | 4 |vier | 14 |viertien | 24 |vierentwintig | 34 |vierendertig  | 44 |viereenveertig| 90   |negentig            |
 | 5 |vijf | 15 |vijftien | 25 |vijfentwintig | 35 |vijfendertig  | 45 |vijfenveertig | 100  |honderd             |
 | 6 |zes  | 16 |zestien  | 26 |zesentwintig  | 36 |zesendertig   | 46 |zesenveertig  | 113  |honderddertien      |
