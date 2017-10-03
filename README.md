@@ -96,7 +96,7 @@ Heb jij een collega?
 Hoe heet hij?  
 - Hij heet **Fulano**.  
 Hoe oud is hij?  
-- Hij is 33.  
+- Hij is ongeveer 33.  
 Hoe gaat het met hem?  
 - Met hem gaat het goed, denk ik.  
 ```
