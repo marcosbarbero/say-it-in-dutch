@@ -18,62 +18,89 @@ Just a repo to store few notes from dutch lessons.
 
 ### Common questions
 
+```text
 Hoe heet je? _What's your name?_
 - Ik heet Marcos. En jij? _My name is Marcos. And yours?_
-
-Aangenaam! _Pleasant!_
-
+Ik ben **Whatever**.
+- Aangenaam! _Pleasant!_
 Hoe spel dat? _How to spell that?_
+```
 
+```text
 Klopt dat? _Is that right?_
 - Dat klopt!
+```
 
+```text
 Waar woon je? _Where do you live?_
 - Ik woon in Amsterdam. _I live in Amsterdam_
+```
 
+```text
 Uit welk land kom je? _Where are you from?_
 - Ik kom uit Brazilie. _I'm from Brazil_
+```
 
 Werk je of studeer je?
 - Ik werk
 
+Ik werk[ˆ1] ook
+
+[ˆ1]: Always add the verb right after the subject pronouns.
+
+```text
 Waar werk je? _Where do you work?_
 - Ik werk in Amsterdam, het bedrijf heet **surprise**. _I work in Amsterdam, the company is called **surprise**_
+```
 
+```text
 Hoe oud ben je? _How old are you?_
 - Ik bean vierendertig
+```
 
+```text
 Heb je het druk? _Are you busy?_
 - Ik heb (niet) het druk. _I'm (not) busy_
+```
 
+```text
 Wat voor werk doe je? _What kind of work do you do?_
 - Ik werk als Softwer Engineer bij **surprise**.
+```
 
+```text
 Hoe lang bent u in Nederland?
 - Ik ben tien maanden in het Nederland.
 - Ik ben hier tien maanden.
+- Ik ben hier tien maanden.
+```
 
+#### Introducing yourself
+```
 Ik wil mij even voorstellen. _I would like to introduce myself_
 - Ik ben de nieuwe buurman.
 Op welk nummer woon je?
 - Op nummer 113 (honderddertien)
+```
 
+```
 Hoe gaat het?
 - het gaat goed
 - het gaat niet zo goed
 - het gaat slecht
+```
 
+#### Talking about a 3rd person
+```
 Heb jij een collega?
 - Ja  
-
 Hoe heet hij?  
 - Hij heet **Fulano**.  
-
 Hoe oud is hij?  
 - Hij is 33.  
-
 Hoe gaat het met hem?  
-- Met hem gaat het goed, denk ik.  
+- Met hem gaat het goed, denk ik.  
+```
 
 
 ### Greetings
@@ -112,8 +139,4 @@ Hoe gaat het met hem?
 
 Notes
 ---
-Always add the verb right after the subject pronouns, e.g.
-
-Werk je of studeer je?
-- Ik werk  
-Ik **werk** ook.
+[ˆ1]: Always add the verb right after the subject pronouns, e.g.
