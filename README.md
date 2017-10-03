@@ -64,13 +64,16 @@ Hoe gaat het?
 - het gaat slecht
 
 Heb jij een collega?
-- Ja
-Hoe heet hij?
-- Hij heet **Fulano**.
-Hoe oud is hij?
-- Hij is 33.
-Hoe gaat het met hem?
-- Met hem gaat het goed, denk ik.
+- Ja  
+
+Hoe heet hij?  
+- Hij heet **Fulano**.  
+
+Hoe oud is hij?  
+- Hij is 33.  
+
+Hoe gaat het met hem?  
+- Met hem gaat het goed, denk ik.  
 
 
 ### Greetings
