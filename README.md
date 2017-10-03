@@ -19,7 +19,7 @@ Just a repo to store few notes from dutch lessons.
 ### Common questions
 
 ```text
-Hoe heet je? [What's your name?]
+Wie ben jij? Hoe heet je? [Who are you? What's your name?]
 - Ik heet Marcos. En jij? [My name is Marcos. And yours?]
 Ik ben **Whatever**.
 - Aangenaam! [Pleasant!]
