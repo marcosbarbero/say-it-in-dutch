@@ -40,13 +40,12 @@ Waar woon je? _Where do you live?_
 Uit welk land kom je? _Where are you from?_
 - Ik kom uit Brazilie. _I'm from Brazil_
 ```
-
+```text
 Werk je of studeer je?
-- Ik werk
-
-Ik werk[ˆ1] ook
-
-[ˆ1]: Always add the verb right after the subject pronouns.
+- Ik werk, en jij?
+Ik werk* ook
+```
+>* Always add the verb right after the subject pronouns.
 
 ```text
 Waar werk je? _Where do you work?_
@@ -102,7 +101,6 @@ Hoe gaat het met hem?
 - Met hem gaat het goed, denk ik.  
 ```
 
-
 ### Greetings
 
  - Goedendag
@@ -136,7 +134,3 @@ Hoe gaat het met hem?
 |Prima      |     -     |
 |Jammer     |Pitty      |
 |Ongeveer   |About - +/-|
-
-Notes
----
-[ˆ1]: Always add the verb right after the subject pronouns, e.g.
