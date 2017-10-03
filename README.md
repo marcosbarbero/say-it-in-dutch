@@ -19,26 +19,26 @@ Just a repo to store few notes from dutch lessons.
 ### Common questions
 
 ```text
-Hoe heet je? _What's your name?_
-- Ik heet Marcos. En jij? _My name is Marcos. And yours?_
+Hoe heet je? [What's your name?]
+- Ik heet Marcos. En jij? [My name is Marcos. And yours?]
 Ik ben **Whatever**.
-- Aangenaam! _Pleasant!_
-Hoe spel dat? _How to spell that?_
+- Aangenaam! [Pleasant!]
+Hoe spel dat? [How to spell that?]
 ```
 
 ```text
-Klopt dat? _Is that right?_
+Klopt dat? [Is that right?]
 - Dat klopt!
 ```
 
 ```text
-Waar woon je? _Where do you live?_
-- Ik woon in Amsterdam. _I live in Amsterdam_
+Waar woon je? [Where do you live?]
+- Ik woon in Amsterdam. [I live in Amsterdam]
 ```
 
 ```text
-Uit welk land kom je? _Where are you from?_
-- Ik kom uit Brazilie. _I'm from Brazil_
+Uit welk land kom je? [Where are you from?]
+- Ik kom uit Brazilie. [I'm from Brazil]
 ```
 ```text
 Werk je of studeer je?
@@ -48,22 +48,22 @@ Ik werk* ook
 >* Always add the verb right after the subject pronouns.
 
 ```text
-Waar werk je? _Where do you work?_
-- Ik werk in Amsterdam, het bedrijf heet **surprise**. _I work in Amsterdam, the company is called **surprise**_
+Waar werk je? [Where do you work?]
+- Ik werk in Amsterdam, het bedrijf heet **surprise**. [I work in Amsterdam, the company is called **surprise**]
 ```
 
 ```text
-Hoe oud ben je? _How old are you?_
+Hoe oud ben je? [How old are you?]
 - Ik bean vierendertig
 ```
 
 ```text
-Heb je het druk? _Are you busy?_
-- Ik heb (niet) het druk. _I'm (not) busy_
+Heb je het druk? [Are you busy?]
+- Ik heb (niet) het druk. [I'm (not) busy]
 ```
 
 ```text
-Wat voor werk doe je? _What kind of work do you do?_
+Wat voor werk doe je? [What kind of work do you do?]
 - Ik werk als Softwer Engineer bij **surprise**.
 ```
 
@@ -76,7 +76,7 @@ Hoe lang bent u in Nederland?
 
 #### Introducing yourself
 ```
-Ik wil mij even voorstellen. _I would like to introduce myself_
+Ik wil mij even voorstellen. [I would like to introduce myself]
 - Ik ben de nieuwe buurman.
 Op welk nummer woon je?
 - Op nummer 113 (honderddertien)
@@ -107,7 +107,6 @@ Hoe gaat het met hem?
  - Goedemorgen
  - GoedMiddag
  - Goedenavond
- 
  - Tot ziens!
  - Tot straks!
  - Tot zo! _See you soon_
