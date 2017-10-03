@@ -107,6 +107,9 @@ Hoe gaat het met hem?
  - Goedemorgen
  - GoedMiddag
  - Goedenavond
+ 
+### Say goodbye
+
  - Tot ziens!
  - Tot straks!
  - Tot zo! _See you soon_
