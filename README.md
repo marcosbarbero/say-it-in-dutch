@@ -11,7 +11,7 @@ Just a repo to store few notes from dutch lessons.
 | 3 |drie | 13 |dertien  | 23 |drieentwintig | 33 |drieendertig  | 43 |drieenveertig | 80   |achttig             |
 | 4 |vier | 14 |viertien | 24 |vierentwintig | 34 |vierendertig  | 44 |viereenveertig| 90   |negentig            |
 | 5 |vijf | 15 |vijftien | 25 |vijfentwintig | 35 |vijfendertig  | 45 |vijfenveertig | 100  |honderd             |
-| 6 |zes  | 16 |zestien  | 26 |zesentwintig  | 36 |zesendertig   | 46 |zesenveertig  | 113  |dertienhonderd      |
+| 6 |zes  | 16 |zestien  | 26 |zesentwintig  | 36 |zesendertig   | 46 |zesenveertig  | 113  |honderddertien      |
 | 7 |zeven| 17 |zeventien| 27 |zevenentwintig| 37 |zevenendertirg| 47 |zevenenveertig| 152  |honderdtweeenvijftig|
 | 8 |acht | 18 |achttien | 28 |achtentwintig | 38 |achtendertig  | 48 |achtenveertig | 200  |tweehonderd         |
 | 9 |negen| 19 |negentien| 29 |negenentwintig| 39 |negenendertig | 49 |negenenveertig| 1000 |duizend             |
