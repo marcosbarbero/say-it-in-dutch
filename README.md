@@ -3,18 +3,18 @@ Say it in Dutch
 Just a repo to store few notes from dutch lessons.
 
 ### Telwoorden (Numbers)
-| - | - | - | - | - | - |
-|---|---|---|---|---|---|
-| 0 |nul  | 10 |tien     | 20 |twintig       |
-| 1 |een  | 11 |elf      | 21 |eenentwintig  |
-| 2 |twee | 12 |twaalf   | 22 |tweenentwintig|
-| 3 |drie | 13 |dertien  | 23 |drieentwintig |
-| 4 |vier | 14 |viertien | 24 |vierentwintig |
-| 5 |vijf | 15 |vijftien | 25 |vijfentwintig |
-| 6 |zes  | 16 |zestien  | 26 |zesentwintig  |
-| 7 |zeven| 17 |zeventien| 27 |zevenentwintig|
-| 8 |acht | 18 |achttien | 28 |achtentwintig |
-| 9 |negen| 19 |negentien| 29 |negenentwintig|
+| - | - | - | - | - | - | - | - | - | - | - | - |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 0 |nul  | 10 |tien     | 20 |twintig       | 30 |dertig        | 40 |veertig       | 50   |vijftig             |
+| 1 |een  | 11 |elf      | 21 |eenentwintig  | 31 |eenendertig   | 41 |eenenveertig  | 60   |zestig              |
+| 2 |twee | 12 |twaalf   | 22 |tweenentwintig| 32 |tweeendertig  | 42 |tweeenveertig | 70   |zeventig            |
+| 3 |drie | 13 |dertien  | 23 |drieentwintig | 33 |drieendertig  | 43 |drieenveertig | 80   |achttig             |
+| 4 |vier | 14 |viertien | 24 |vierentwintig | 34 |vierendertig  | 44 |viereenveertig| 90   |negentig            |
+| 5 |vijf | 15 |vijftien | 25 |vijfentwintig | 35 |vijfendertig  | 45 |vijfenveertig | 100  |honderd             |
+| 6 |zes  | 16 |zestien  | 26 |zesentwintig  | 36 |zesendertig   | 46 |zesenveertig  | 113  |dertienhonderd      |
+| 7 |zeven| 17 |zeventien| 27 |zevenentwintig| 37 |zevenendertirg| 47 |zevenenveertig| 152  |honderdtweeenvijftig|
+| 8 |acht | 18 |achttien | 28 |achtentwintig | 38 |achtendertig  | 48 |achtenveertig | 200  |tweehonderd         |
+| 9 |negen| 19 |negentien| 29 |negenentwintig| 39 |negenendertig | 49 |negenenveertig| 1000 |duizend             |
 
 ### Common questions
 
