@@ -115,5 +115,5 @@ Notes
 Always add the verb right after the subject pronouns, e.g.
 
 Werk je of studeer je?
-- Ik werk
+- Ik werk  
 Ik **werk** ook.
