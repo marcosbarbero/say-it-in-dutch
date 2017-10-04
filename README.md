@@ -144,6 +144,7 @@ Hoe gaat het met hem?
 |Lekker    |Vies    |Tasty    |Nasty  |
 |Groot     |Klein   |Big      |Small  |
 |Hoog      |Laag    |Tall     |Little |
+|Gelukkig  |Jammer  |Nice     |Pitty  |
   
 ### Random  
 
@@ -158,6 +159,19 @@ Hoe gaat het met hem?
 |Ongeveer   |About - +/-|
 |Getrouwd   |Married    |
 |Fijne      |Nice       |
+|Natuurlijk |Of course  |
+|Fiets      |Bike       |
+|Tafel      |Table      |
+|Schoen     |Shoes      |
+|Tas        |Bag        |
+|Pen        |Pen        |
+|Huis       |House      |
+|Stoel      |Chair      |
+|Auto       |Car        |
+|Boek       |Book       |
+|Hond       |Dog        |
+|Brood      |Bread      |
+|Melk       |Milk       |
 
 ### Family
 
@@ -194,6 +208,7 @@ De pen is niet groot.
 * Boek
 * Brood
 
+>In plural everything is `De`
 
 Links
 ---
