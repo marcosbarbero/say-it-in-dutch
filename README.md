@@ -74,23 +74,30 @@ Hoe lang bent u in Nederland?
 - Ik ben hier tien maanden.
 ```
 
-#### Introducing yourself
+```text
+Ik snap het niet, kun je dat herhalen? [I didn't get it, can you repeat?]
 ```
+
+#### Introducing yourself
+
+```text
 Ik wil mij even voorstellen. [I would like to introduce myself]
 - Ik ben de nieuwe buurman.
 Op welk nummer woon je?
 - Op nummer 113 (honderddertien)
 ```
 
-```
+```text
 Hoe gaat het?
 - het gaat goed
 - het gaat niet zo goed
 - het gaat slecht
+- Met mij gaat het goed
 ```
 
 #### Talking about a 3rd person
-```
+
+```text
 Heb jij een collega?
 - Ja  
 Hoe heet hij?  
@@ -124,6 +131,20 @@ Hoe gaat het met hem?
  
   - U
   - Menner / Mevrow
+
+### Antonym
+
+|Nederlands|Antonym |English  |Antonym|
+|----------|--------|---------|-------|
+|Duur      |Goedkoop|Expensive|Cheap  |
+|Zwaar     |Licht   |Heavy    |Light  |
+|Snel      |Langzaam|Fast     |Slow   |
+|Lang      |Kort    |Long     |Short  |
+|Vers      |Oud     |Fresh    |Old    |
+|Lekker    |Vies    |Tasty    |Nasty  |
+|Groot     |Klein   |Big      |Small  |
+|Hoog      |Laag    |Tall     |Little |
+|Gelukkig  |Jammer  |Nice     |Pitty  |
   
 ### Random  
 
@@ -136,3 +157,60 @@ Hoe gaat het met hem?
 |Prima      |     -     |
 |Jammer     |Pitty      |
 |Ongeveer   |About - +/-|
+|Getrouwd   |Married    |
+|Fijne      |Nice       |
+|Natuurlijk |Of course  |
+|Fiets      |Bike       |
+|Tafel      |Table      |
+|Schoen     |Shoes      |
+|Tas        |Bag        |
+|Pen        |Pen        |
+|Huis       |House      |
+|Stoel      |Chair      |
+|Auto       |Car        |
+|Boek       |Book       |
+|Hond       |Dog        |
+|Brood      |Bread      |
+|Melk       |Milk       |
+
+### Family
+
+|Nederlands|English|
+|----------|-------|
+|Broer     |Brother|
+
+```text
+Hoe heet je broer?
+- Mijn broer heet {name}
+Waar woont hij?
+- Hij woont in {plaats}
+Werkt hij of studeert hij?
+- Hij werkt en (hij) studeert.
+Is hij getrouwd?
+- Ja, hij is getrouwd
+```
+
+
+### Geen & Niet
+
+Use `geen` for things and `niet` for adjectives, e.g.:
+
+```text
+Ik heb nog geen huis.
+
+De pen is niet groot.
+```
+
+
+### Het words
+
+* Huis
+* Boek
+* Brood
+
+>In plural everything is `De`
+
+Links
+---
+
+ - [Class 2017-10-04](./assets/2017-10-04.png)
