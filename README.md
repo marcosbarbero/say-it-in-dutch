@@ -79,14 +79,15 @@ Ik snap het niet, kun je dat herhalen? [I didn't get it, can you repeat?]
 ```
 
 #### Introducing yourself
-```
+
+```text
 Ik wil mij even voorstellen. [I would like to introduce myself]
 - Ik ben de nieuwe buurman.
 Op welk nummer woon je?
 - Op nummer 113 (honderddertien)
 ```
 
-```
+```text
 Hoe gaat het?
 - het gaat goed
 - het gaat niet zo goed
@@ -95,7 +96,8 @@ Hoe gaat het?
 ```
 
 #### Talking about a 3rd person
-```
+
+```text
 Heb jij een collega?
 - Ja  
 Hoe heet hij?  
@@ -142,7 +144,6 @@ Hoe gaat het met hem?
 |Lekker    |Vies    |Tasty    |Nasty  |
 |Groot     |Klein   |Big      |Small  |
 |Hoog      |Laag    |Tall     |Little |
-|
   
 ### Random  
 
