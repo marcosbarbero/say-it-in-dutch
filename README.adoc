@@ -7,7 +7,6 @@ Just a repo to store few notes from dutch lessons.
 
 == Telwoorden (Numbers)
 
-.Numbers
 |===
 | - | - | - | - | - | - | - | - | - | - | - | - 
 
@@ -101,7 +100,6 @@ TIP: Always add the verb right after the subject pronouns.
 
 == Family
 
-.Family
 |===
 |Nederlands|English
 
@@ -177,49 +175,49 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 |===
 |Nederlands |English    
 
-|Leuk       |Nice/Good  |
+|Leuk       |Nice/Good  
 
-|Mooi       |Beautiful  |
+|Mooi       |Beautiful  
 
-|Interessant|Interesting|
+|Interessant|Interesting
 
-|Uitstekend |Excellent  |
+|Uitstekend |Excellent  
 
-|Prima      |     -     |
+|Prima      |     -     
 
-|Jammer     |Pitty      |
+|Jammer     |Pitty      
 
-|Ongeveer   |About - +/-|
+|Ongeveer   |About - +/-
 
-|Getrouwd   |Married    |
+|Getrouwd   |Married    
 
-|Fijne      |Nice       |
+|Fijne      |Nice       
 
-|Natuurlijk |Of course  |
+|Natuurlijk |Of course  
 
-|Fiets      |Bike       |
+|Fiets      |Bike       
 
-|Tafel      |Table      |
+|Tafel      |Table      
 
-|Schoen     |Shoes      |
+|Schoen     |Shoes      
 
-|Tas        |Bag        |
+|Tas        |Bag        
 
-|Pen        |Pen        |
+|Pen        |Pen        
 
-|Huis       |House      |
+|Huis       |House      
 
-|Stoel      |Chair      |
+|Stoel      |Chair      
 
-|Auto       |Car        |
+|Auto       |Car        
 
-|Boek       |Book       |
+|Boek       |Book       
 
-|Hond       |Dog        |
+|Hond       |Dog        
 
-|Brood      |Bread      |
+|Brood      |Bread      
 
-|Melk       |Milk       |
+|Melk       |Milk       
 |===
 
 == Het words
