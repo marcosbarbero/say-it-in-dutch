@@ -71,7 +71,6 @@ Wat voor werk doe je? [What kind of work do you do?]
 Hoe lang bent u in Nederland?
 - Ik ben tien maanden in het Nederland.
 - Ik ben hier tien maanden.
-- Ik ben hier tien maanden.
 ```
 
 ```text
