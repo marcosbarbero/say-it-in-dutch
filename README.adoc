@@ -308,6 +308,7 @@ image::2017-10-05.png[]
 . Prullenbak / Afvalbak
 . Raam / Raamen
 . Schilderij
+. Stoel / Stoelen
 . Koffietafel
 . De verwarming / De radiator
 . De vloer
