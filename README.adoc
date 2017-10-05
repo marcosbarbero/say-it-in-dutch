@@ -8,7 +8,7 @@ Just a repo to store few notes from dutch lessons.
 == Telwoorden (Numbers)
 
 |===
-| - | - | - | - | - | - | - | - | - | - | - | - 
+| - | - | - | - | - | - | - | - | - | - | - | -
 
 | 0 |nul  | 10 |tien     | 20 |twintig       | 30 |dertig        | 40 |veertig       | 50   |vijftig
 
@@ -79,6 +79,8 @@ TIP: Always add the verb right after the subject pronouns.
 
   Ik snap het niet, kun je dat herhalen? [I didn't get it, can you repeat?]
 
+  Ik weet het niet [I don't know]
+
 == Introducing yourself
 
   Ik wil mij even voorstellen. [I would like to introduce myself]
@@ -90,12 +92,12 @@ TIP: Always add the verb right after the subject pronouns.
 == Talking about a 3rd person
 
   Heb jij een collega?
-  - Ja  
-  Hoe heet hij?  
-  - Hij heet **Fulano**.  
-  Hoe oud is hij?  
-  - Hij is ongeveer 33.  
-  Hoe gaat het met hem?  
+  - Ja
+  Hoe heet hij?
+  - Hij heet **Fulano**.
+  Hoe oud is hij?
+  - Hij is ongeveer 33.
+  Hoe gaat het met hem?
   - Met hem gaat het goed, denk ik.
 
 == Family
@@ -121,7 +123,7 @@ TIP: Always add the verb right after the subject pronouns.
  - Goedemorgen
  - Goedemiddag
  - Goedenavond
- 
+
 == Say goodbye
 
  - Tot ziens!
@@ -133,9 +135,9 @@ TIP: Always add the verb right after the subject pronouns.
  - Tot volgend jaar! _See you next year_
  - Tot later!
  - Tot woensdag!
- 
+
 == Formal
- 
+
   - U
   - Menner / Mevrow
 
@@ -148,86 +150,180 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
 == Antonym
 
+[cols="4*", options="header"]
 |===
-|Nederlands|Antonym |English  |Antonym
+|Nederlands
+|Antonym
+|English
+|Antonym
 
-|Duur      |Goedkoop|Expensive|Cheap  
+|Duur
+|Goedkoop
+|Expensive
+|Cheap
 
-|Zwaar     |Licht   |Heavy    |Light  
+|Zwaar
+|Licht
+|Heavy
+|Light
 
-|Snel      |Langzaam|Fast     |Slow   
+|Snel
+|Langzaam
+|Fast
+|Slow
 
-|Lang      |Kort    |Long     |Short  
+|Lang
+|Kort
+|Long
+|Short
 
-|Vers      |Oud     |Fresh    |Old    
+|Vers
+|Oud
+|Fresh
+|Old
 
-|Lekker    |Vies    |Tasty    |Nasty  
+|Lekker
+|Vies
+|Tasty
+|Nasty
 
-|Groot     |Klein   |Big      |Small  
+|Groot
+|Klein
+|Big
+|Small
 
-|Hoog      |Laag    |Tall     |Little 
+|Hoog
+|Laag
+|Tall
+|Little
 
-|Gelukkig  |Jammer  |Nice     |Pitty  
+|Gelukkig
+|Jammer
+|Nice
+|Pitty
+
+|Open
+|Open
+|Dicht
+|Close
+
+|Warm
+|Warm
+|Koud
+|Cold
 |===
-  
-== Random  
 
+== Random
+
+[cols="2*", options="header"]
 |===
-|Nederlands |English    
+|Nederlands
+|English
 
-|Leuk       |Nice/Good  
+|Leuk
+|Nice/Good
 
-|Mooi       |Beautiful  
+|Mooi
+|Beautiful
 
-|Interessant|Interesting
+|Interessant
+|Interesting
 
-|Uitstekend |Excellent  
+|Uitstekend
+|Excellent
 
-|Prima      |     -     
+|Prima
+|-
 
-|Jammer     |Pitty      
+|Jammer
+|Pitty
 
-|Ongeveer   |About - +/-
+|Ongeveer
+|About - more or less
 
-|Getrouwd   |Married    
+|Getrouwd
+|Married
 
-|Fijne      |Nice       
+|Fijne
+|Nice
 
-|Natuurlijk |Of course  
+|Natuurlijk
+|Of course
 
-|Fiets      |Bike       
+|Fiets
+|Bike
 
-|Tafel      |Table      
+|Tafel
+|Table
 
-|Schoen     |Shoes      
+|Schoen
+|Shoes
 
-|Tas        |Bag        
+|Tas
+|Bag
 
-|Pen        |Pen        
+|Pen
+|Pen
 
-|Huis       |House      
+|Huis
+|House
 
-|Stoel      |Chair      
+|Stoel
+|Chair
 
-|Auto       |Car        
+|Auto
+|Car
 
-|Boek       |Book       
+|Boek
+|Book
 
-|Hond       |Dog        
+|Hond
+|Dog
 
-|Brood      |Bread      
+|Brood
+|Bread
 
-|Melk       |Milk       
+|Melk
+|Milk
+
+|Precies
+|Exactly
+
+|Dichtbij
+|Close by
 |===
+
+== Objects
+
+.De kamer
+image::2017-10-05.png[De Kamer, 600, 450]
+
+. De bank
+. De duur
+. Het gordijn /De gordijnen
+. De kast
+. De lamp / De lampen
+. Het plafond
+. De plant
+. Prullenbak / Afvalbak
+. Raam / Raamen
+. Schilderij
+. Stoel / Stoelen
+. Koffietafel
+. De verwarming / De radiator
+. De vloer
+. De muur / De muren
 
 == Het words
 
-* Huis
-* Boek
-* Brood
+* Het huis
+* Het boek
+* Het brood
+* Het plafond
 
 TIP: In plural everything is `De`
 
 == Links
 
  - link:assets/images/2017-10-04.png[Class 2017-10-04]
+ - link:assets/images/2017-10-05.png[Class 2017-10-05]
