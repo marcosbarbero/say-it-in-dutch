@@ -119,7 +119,7 @@ TIP: Always add the verb right after the subject pronouns.
 
  - Goedendag
  - Goedemorgen
- - GoedMiddag
+ - Goedemiddag
  - Goedenavond
  
 == Say goodbye
