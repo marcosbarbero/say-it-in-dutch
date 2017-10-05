@@ -108,6 +108,23 @@ Hoe gaat het met hem?
 - Met hem gaat het goed, denk ik.  
 ```
 
+### Family
+
+|Nederlands|English|
+|----------|-------|
+|Broer     |Brother|
+
+```text
+Hoe heet je broer?
+- Mijn broer heet {name}
+Waar woont hij?
+- Hij woont in {plaats}
+Werkt hij of studeert hij?
+- Hij werkt en (hij) studeert.
+Is hij getrouwd?
+- Ja, hij is getrouwd
+```
+
 ### Greetings
 
  - Goedendag
@@ -131,6 +148,16 @@ Hoe gaat het met hem?
  
   - U
   - Menner / Mevrow
+
+### Geen & Niet
+
+Use `geen` for things and `niet` for adjectives, e.g.:
+
+```text
+Ik heb nog geen huis.
+
+De pen is niet groot.
+```  
 
 ### Antonym
 
@@ -172,34 +199,6 @@ Hoe gaat het met hem?
 |Hond       |Dog        |
 |Brood      |Bread      |
 |Melk       |Milk       |
-
-### Family
-
-|Nederlands|English|
-|----------|-------|
-|Broer     |Brother|
-
-```text
-Hoe heet je broer?
-- Mijn broer heet {name}
-Waar woont hij?
-- Hij woont in {plaats}
-Werkt hij of studeert hij?
-- Hij werkt en (hij) studeert.
-Is hij getrouwd?
-- Ja, hij is getrouwd
-```
-
-
-### Geen & Niet
-
-Use `geen` for things and `niet` for adjectives, e.g.:
-
-```text
-Ik heb nog geen huis.
-
-De pen is niet groot.
-```
 
 
 ### Het words
