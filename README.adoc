@@ -296,7 +296,7 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 == Objects
 
 .De kamer
-image::2017-10-05.png[]
+image::2017-10-05.png[De Kamer, 400, 250]
 
 . De bank
 . De duur
