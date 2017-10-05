@@ -314,6 +314,10 @@ image::2017-10-05.png[De Kamer, 600, 450]
 . De vloer
 . De muur / De muren
 
+TIP: It's also used `he` and `hij` for objects, e.g:
+  De duur is open of dicht?
+  - He is dicht!
+
 == Het words
 
 * Het huis
