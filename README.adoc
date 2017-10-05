@@ -230,4 +230,4 @@ TIP: In plural everything is `De`
 
 == Links
 
- - link:assets/2017-10-04.png[Class 2017-10-04]
+ - link:assets/images/2017-10-04.png[Class 2017-10-04]
