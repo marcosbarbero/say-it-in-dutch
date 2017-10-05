@@ -150,6 +150,7 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
 == Antonym
 
+[cols="4*", options="header"]
 |===
 |Nederlands
 |Antonym
@@ -214,6 +215,7 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
 == Random
 
+[cols="2*", options="header"]
 |===
 |Nederlands
 |English
@@ -294,7 +296,7 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 == Objects
 
 .De kamer
-image::2017-10-05.png
+image::2017-10-05.png[]
 
 . De bank
 . De duur
