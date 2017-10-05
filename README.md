@@ -23,6 +23,7 @@ Wie ben jij? Hoe heet je? [Who are you? What's your name?]
 - Ik heet Marcos. En jij? [My name is Marcos. And yours?]
 Ik ben **Whatever**.
 - Aangenaam! [Pleasant!]
+> Prettig met je kennis te maken! [Nice to meet you!]
 Hoe spel dat? [How to spell that?]
 ```
 
@@ -70,15 +71,15 @@ Wat voor werk doe je? [What kind of work do you do?]
 ```text
 Hoe lang bent u in Nederland?
 - Ik ben tien maanden in het Nederland.
-- Ik ben hier tien maanden.
+> Ik ben hier tien maanden.
 ```
 
 ```text
 Hoe gaat het?
 - het gaat goed
-- het gaat niet zo goed
-- het gaat slecht
-- Met mij gaat het goed
+> het gaat niet zo goed
+> het gaat slecht
+> Met mij gaat het goed
 ```
 
 ```text
