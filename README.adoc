@@ -329,6 +329,7 @@ TIP: It's also used `he` and `hij` for objects, e.g:
 * Het boek
 * Het brood
 * Het plafond
+* Het gordijn
 
 TIP: In plural everything is `De`
 
