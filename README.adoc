@@ -81,6 +81,10 @@ TIP: Always add the verb right after the subject pronouns.
 
   Ik weet het niet [I don't know]
 
+  Zit je klaar? [Are you ready?]
+
+  Je kunt mij bellen! [You can call me!]
+
 == Introducing yourself
 
   Ik wil mij even voorstellen. [I would like to introduce myself]
