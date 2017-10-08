@@ -61,13 +61,13 @@ TIP: Always add the verb right after the subject pronouns.
   > Ik werk in Amsterdam, bij Backbase.
 
   Hoe oud ben je? [How old are you?]
-  - Ik bean vierendertig
+  - Ik ben vierendertig
 
   Heb je het druk? [Are you busy?]
   - Ik heb (niet) het druk. [I'm (not) busy]
 
   Wat voor werk doe je? [What kind of work do you do?]
-  - Ik werk als Softwer Engineer bij **surprise**.
+  - Ik werk als Software Engineer bij **surprise**.
 
   Hoe lang bent u in Nederland?
   - Ik ben tien maanden in het Nederland.
@@ -78,6 +78,8 @@ TIP: Always add the verb right after the subject pronouns.
   > het gaat niet zo goed
   > het gaat slecht
   > Met mij gaat het goed
+  
+  Ik ben moe. [I'm tired]
 
   Ik snap het niet, kun je dat herhalen? [I didn't get it, can you repeat?]
 
