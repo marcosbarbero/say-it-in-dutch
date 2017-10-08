@@ -58,6 +58,7 @@ TIP: Always add the verb right after the subject pronouns.
 
   Waar werk je? [Where do you work?]
   - Ik werk in Amsterdam, het bedrijf heet **surprise**. [I work in Amsterdam, the company is called **surprise**]
+  > Ik werk in Amsterdam, bij Backbase.
 
   Hoe oud ben je? [How old are you?]
   - Ik bean vierendertig
