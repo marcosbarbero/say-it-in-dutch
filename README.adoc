@@ -47,6 +47,7 @@ Just a repo to store few notes from dutch lessons.
   - Ik woon in Amsterdam. [I live in Amsterdam]
 
   Uit welk land kom je? [Where are you from?]
+  > Waar kom je vandaan?
   - Ik kom uit Brazilie. [I'm from Brazil]
 
   Werk je of studeer je?
