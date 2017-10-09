@@ -324,7 +324,7 @@ image::2017-10-05.png[De Kamer, 600, 450]
 
 TIP: It's also used `he` and `hij` for objects, e.g:
 
-  De duur is open of dicht?
+  De deur is open of dicht?
   - He is dicht!
 
 == Het words
