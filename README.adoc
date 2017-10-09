@@ -78,7 +78,7 @@ TIP: Always add the verb right after the subject pronouns.
   > het gaat niet zo goed
   > het gaat slecht
   > Met mij gaat het goed
-  
+
   Ik ben moe. [I'm tired]
 
   Ik snap het niet, kun je dat herhalen? [I didn't get it, can you repeat?]
@@ -88,6 +88,43 @@ TIP: Always add the verb right after the subject pronouns.
   Zit je klaar? [Are you ready?]
 
   Je kunt mij bellen! [You can call me!]
+
+  Dat is het! (That's it!)
+
+  Ver weg (Far away)
+
+  Mis jij de honden?
+  - Ik mis ze wel
+  > Ik mis ze heel erg
+
+TIP: for intensity use `heel erg`
+
+  Wie zorgt voor de honden? (Who cares for the dogs?)
+
+  Vind jij dieren leuk?
+  - Ja, ik vind dieren leuk
+
+TIP: `leuk` is the last part of the sentense
+
+  Ik vind het niet zo leuk
+
+  Hoeveel uur per week werk jij?
+  Ik werk 40 (dertig) uur per week.
+
+
+== Days of week
+
+ - Zondag
+ - Maandag
+ - Dinsdag
+ - Woensdag
+ - Donderdag
+ - Vrijdag
+
+  Werk je op Zaterdag?
+  - Ik werk niet op Zaterdag.
+
+TIP: Use `op` for days
 
 == Introducing yourself
 
@@ -114,6 +151,8 @@ TIP: Always add the verb right after the subject pronouns.
 |Nederlands|English
 
 |Broer     |Brother
+
+|Moeder    |Mother
 |===
 
   Hoe heet je broer?
@@ -155,6 +194,8 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
   Ik heb nog geen huis.
   De pen is niet groot.
+
+  Ik eet geen vis.
 
 == Antonym
 
@@ -219,6 +260,11 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 |Warm
 |Koud
 |Cold
+
+|Makkelijk
+|Easy
+|Moeilijk
+|Difficult
 |===
 
 == Random
@@ -299,7 +345,12 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
 |Dichtbij
 |Close by
+
+|Dier
+|Animal
 |===
+
+TIP: Leuk -> Geweldig / Fantastisch
 
 == Objects
 
@@ -327,6 +378,17 @@ TIP: It's also used `he` and `hij` for objects, e.g:
   De deur is open of dicht?
   - He is dicht!
 
+== Kleuren
+
+image::2017-10-09.png[]
+
+  Vertel mij over jouw fiets. Welke kleur is hij?
+  - Hij is groen
+
+  Het gordijn is wit
+  De gordijnen zijn wit
+  >Ze zijn wit
+
 == Het words
 
 * Het huis
@@ -334,6 +396,7 @@ TIP: It's also used `he` and `hij` for objects, e.g:
 * Het brood
 * Het plafond
 * Het gordijn
+* Het fantastisch
 
 TIP: In plural everything is `De`
 
@@ -341,3 +404,4 @@ TIP: In plural everything is `De`
 
  - link:assets/images/2017-10-04.png[Class 2017-10-04]
  - link:assets/images/2017-10-05.png[Class 2017-10-05]
+ - link:assets/images/2017-10-09.png[Class 2017-10-09]
