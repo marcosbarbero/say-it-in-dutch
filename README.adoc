@@ -307,7 +307,7 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 image::2017-10-05.png[De Kamer, 600, 450]
 
 . De bank
-. De duur
+. De deur
 . Het gordijn /De gordijnen
 . De kast
 . De lamp / De lampen
