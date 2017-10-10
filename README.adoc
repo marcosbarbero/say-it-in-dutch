@@ -402,6 +402,11 @@ TIP: In plural everything is `De`
 
 == Links
 
- - link:assets/images/2017-10-04.png[Class 2017-10-04]
- - link:assets/images/2017-10-05.png[Class 2017-10-05]
- - link:assets/images/2017-10-09.png[Class 2017-10-09]
+ * Classes
+ ** link:assets/images/2017-10-04.png[Class 2017-10-04]
+ ** link:assets/images/2017-10-05.png[Class 2017-10-05]
+ ** link:assets/images/2017-10-09.png[Class 2017-10-09]
+ * Grammar
+ ** https://docs.google.com/spreadsheets/u/1/d/16nwvPSaCviwOaDuyeJ7fbsganqCU_DFQG0WDpENJsh0/pubhtml?gid=0%3Dtrue[De en Het words]
+ ** https://www.duolingo.com/comment/3732938/Grammar-De-Het-Een[Duolingo - De Het Een]
+ ** https://www.memrise.com/course/356041/dutch-duolingo-de-or-het-vocabulary/#[Memrise]
