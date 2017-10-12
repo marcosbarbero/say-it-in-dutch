@@ -470,6 +470,7 @@ image::2017-10-09.png[]
 * Het fantastisch
 * Het park
 * Het station
+* Het bier
 
 TIP: In plural everything is `De`
 
