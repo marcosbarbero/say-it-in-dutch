@@ -128,6 +128,8 @@ TIP: `leuk` is the last part of the sentense
 
 === Inviting someone
 
+image::2017-10-11_02.png[]
+
   Ga je mee koffiedrinken?
   >Ga je mee naar het café?
   - Ja, een goed idee!
@@ -156,7 +158,6 @@ TIP: `leuk` is the last part of the sentense
 === Time
 
 image::2017-10-11_01.png[]
-image::2017-10-11_02.png[]
 
   Wij gaan vanavond om zeven uur koffiedinken
 
