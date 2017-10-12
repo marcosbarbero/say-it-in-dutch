@@ -125,6 +125,9 @@ TIP: `leuk` is the last part of the sentense
   Wat nog meer? (What else?)
   - Dat is alles.
 
+  Hoe is je dag tot nu toe? [How is your day so far?]
+
+  Ik denk het wel. [I think so]
 
 === Inviting someone
 
