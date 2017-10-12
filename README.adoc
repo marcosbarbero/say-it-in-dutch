@@ -149,6 +149,7 @@ image::2017-10-11_02.png[]
 
 [TIP]
 ====
+ * Use `om` for hours
  * Second verb goes to the last, e.g.:
  ** Wij gaan zaterdag in het park fietsen.
  ** Zaterdag gaan wij in het park fietsen.
