@@ -54,7 +54,11 @@ Just a repo to store few notes from dutch lessons.
   - Ik werk, en jij?
   Ik werk* ook
 
-TIP: Always add the verb right after the subject pronouns.
+[TIP]
+====
+ * Always add the verb right after the subject pronouns.
+ * Verb and subject can't be split.
+====
 
   Waar werk je? [Where do you work?]
   - Ik werk in Amsterdam, het bedrijf heet **surprise**. [I work in Amsterdam, the company is called **surprise**]
@@ -111,6 +115,58 @@ TIP: `leuk` is the last part of the sentense
   Hoeveel uur per week werk jij?
   Ik werk 40 (dertig) uur per week.
 
+  Een andere vraag. [Another question]
+
+  Heb jij hobby's?
+
+  Wat zijn jouw hobby's?
+  - Mijn hobby's zijn:
+
+  Wat nog meer? (What else?)
+  - Dat is alles.
+
+
+=== Inviting someone
+
+image::2017-10-11_02.png[]
+
+  Ga je mee koffiedrinken?
+  >Ga je mee naar het café?
+  - Ja, een goed idee!
+  War gaan we koffiedrinken?
+  - In een café
+  Welk café?
+  - In het centrum van Amsterdam
+  Afgesproken! Waar zullen we afspreken?
+  - op het station
+  Waneer gaan we koffiedrinken?
+  - Om zeven uur
+
+  Zullen wij naar het café gaan?
+  - Welk café?
+  In het centrum van Amsterdam
+
+
+[TIP]
+====
+ * Second verb goes to the last, e.g.:
+ ** Wij gaan zaterdag in het park fietsen.
+ ** Zaterdag gaan wij in het park fietsen.
+ ** Ik ga zaterdag in het park fietsen.
+====
+
+=== Time
+
+image::2017-10-11_01.png[]
+
+  Wij gaan vanavond om zeven uur koffiedinken
+
+[TIP]
+====
+ * Time comes before place, e.g.:
+ ** Wij gaan vanavond om zeven uur koffiedinken.
+ ** Time -> vanavond, Place -> koffiedrinken
+====
 
 == Days of week
 
@@ -120,11 +176,25 @@ TIP: `leuk` is the last part of the sentense
  - Woensdag
  - Donderdag
  - Vrijdag
+ - Zaterdag
 
   Werk je op Zaterdag?
   - Ik werk niet op Zaterdag.
 
-TIP: Use `op` for days
+  Welk dag is het vandaag?
+  - Woesdag
+
+  Op welke dagen werk je?
+  - Van maandag tot en met vrijdag
+
+
+[NOTE]
+====
+ * Use `op` for days
+ * Tot en met -> Until including, e.g:
+ ** Van maandag tot en met vrijdag
+ ** ma t/m vr
+====
 
 == Introducing yourself
 
@@ -397,6 +467,8 @@ image::2017-10-09.png[]
 * Het plafond
 * Het gordijn
 * Het fantastisch
+* Het park
+* Het station
 
 TIP: In plural everything is `De`
 
@@ -406,6 +478,9 @@ TIP: In plural everything is `De`
  ** link:assets/images/2017-10-04.png[Class 2017-10-04]
  ** link:assets/images/2017-10-05.png[Class 2017-10-05]
  ** link:assets/images/2017-10-09.png[Class 2017-10-09]
+ ** Class 2017-10-11
+ *** link:assets/images/2017-10-11_01.png[01]
+ *** link:assets/images/2017-10-11_02.png[02]
  * Grammar
  ** https://docs.google.com/spreadsheets/u/1/d/16nwvPSaCviwOaDuyeJ7fbsganqCU_DFQG0WDpENJsh0/pubhtml?gid=0%3Dtrue[De en Het words]
  ** https://www.duolingo.com/comment/3732938/Grammar-De-Het-Een[Duolingo - De Het Een]
