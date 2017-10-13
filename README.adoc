@@ -125,6 +125,14 @@ TIP: `leuk` is the last part of the sentense
   Wat nog meer? (What else?)
   - Dat is alles.
 
+  Hoe is je dag tot nu toe? [How is your day so far?]
+
+  Dat denk ik [I think so]
+  >Ik denk het wel.
+
+  Bel je mij? [Will you call me?]
+
+  Ik had een band maar dat was tien jaar geleden.
 
 === Inviting someone
 
@@ -146,14 +154,20 @@ image::2017-10-11_02.png[]
   - Welk café?
   In het centrum van Amsterdam
 
+  Wij gaan morgenochtend om tien uur in het park fietsen.
+  - En daarna? Zullen we daarna?
+  Waar zullen wij lunchen?
+  - Ken jij een leuk café? [Do you know...]
+  Nee, maar wij vinden wel iets.
 
 [TIP]
 ====
  * Use `om` for hours
  * Second verb goes to the last, e.g.:
  ** Wij gaan zaterdag in het park fietsen.
- ** Zaterdag gaan wij in het park fietsen.
+ ** Zaterdag gaan wij in het park fietsen. -> Emphasis the day
  ** Ik ga zaterdag in het park fietsen.
+ * Ken jij... -> Do you know...
 ====
 
 === Time
@@ -272,153 +286,106 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
 [cols="4*", options="header"]
 |===
-|Nederlands
-|Antonym
-|English
-|Antonym
+|Nederlands       |Antonym      |English      |Antonym
 
-|Duur
-|Goedkoop
-|Expensive
-|Cheap
+|Duur             |Goedkoop     |Expensive    |Cheap
 
-|Zwaar
-|Licht
-|Heavy
-|Light
+|Zwaar            |Licht        |Heavy        |Light
 
-|Snel
-|Langzaam
-|Fast
-|Slow
+|Snel             |Langzaam     |Fast         |Slow
 
-|Lang
-|Kort
-|Long
-|Short
+|Lang             |Kort         |Long         |Short
 
-|Vers
-|Oud
-|Fresh
-|Old
+|Vers             |Oud          |Fresh        |Old
 
-|Lekker
-|Vies
-|Tasty
-|Nasty
+|Lekker           |Vies         |Tasty        |Nasty
 
-|Groot
-|Klein
-|Big
-|Small
+|Groot            |Klein        |Big          |Small
 
-|Hoog
-|Laag
-|Tall
-|Little
+|Hoog             |Laag         |Tall         |Little
 
-|Gelukkig
-|Jammer
-|Nice
-|Pitty
+|Gelukkig         |Jammer       |Nice         |Pitty
 
-|Open
-|Open
-|Dicht
-|Close
+|Open             |Open         |Dicht        |Close
 
-|Warm
-|Warm
-|Koud
-|Cold
+|Warm             |Warm         |Koud         |Cold
 
-|Makkelijk
-|Easy
-|Moeilijk
-|Difficult
+|Makkelijk        |Easy         |Moeilijk     |Difficult
 |===
 
 == Random
 
 [cols="2*", options="header"]
 |===
-|Nederlands
-|English
+|Nederlands   |English
 
-|Leuk
-|Nice/Good
+|Leuk         |Nice/Good
 
-|Mooi
-|Beautiful
+|Mooi         |Beautiful
 
-|Interessant
-|Interesting
+|Interessant  |Interesting
 
-|Uitstekend
-|Excellent
+|Uitstekend   |Excellent
 
-|Prima
-|-
+|Prima        |-
 
-|Jammer
-|Pitty
+|Jammer       |Pitty
 
-|Ongeveer
-|About - more or less
+|Ongeveer     |About - more or less
 
-|Getrouwd
-|Married
+|Getrouwd     |Married
 
-|Fijne
-|Nice
+|Fijne        |Nice
 
-|Natuurlijk
-|Of course
+|Natuurlijk   |Of course
 
-|Fiets
-|Bike
+|fiets        |Bike
 
-|Tafel
-|Table
+|Tafel        |Table
 
-|Schoen
-|Shoes
+|Schoen       |Shoes
 
-|Tas
-|Bag
+|Tas          |Bag
 
-|Pen
-|Pen
+|Pen          |Pen
 
-|Huis
-|House
+|Huis         |House
 
-|Stoel
-|Chair
+|Stoel        |Chair
 
-|Auto
-|Car
+|Auto         |Car
 
-|Boek
-|Book
+|Boek         |Book
 
-|Hond
-|Dog
+|Hond         |Dog
 
-|Brood
-|Bread
+|Brood        |Bread
 
-|Melk
-|Milk
+|Melk         |Milk
 
-|Precies
-|Exactly
+|Precies      |Exactly
 
-|Dichtbij
-|Close by
+|Dichtbij     |Close by
 
-|Dier
-|Animal
+|Dier         |Animal
+
+|Bass         |Boss
+
+|Tekenen      |To draw
+
+|Sportschool  |Gym
+
+|Koop         |Buy
+
+|Ga           |Go
+
+|Geleden      |Ago
+
+|Vaak         |Often
+
+|Daarna       |After that / Afterwards
+
+|Iets         |Something
 |===
 
 TIP: Leuk -> Geweldig / Fantastisch
@@ -483,6 +450,7 @@ TIP: In plural everything is `De`
  ** Class 2017-10-11
  *** link:assets/images/2017-10-11_01.png[01]
  *** link:assets/images/2017-10-11_02.png[02]
+ ** link:assets/images/2017-10-12.png[Class 2017-10-12]
  * Grammar
  ** https://docs.google.com/spreadsheets/u/1/d/16nwvPSaCviwOaDuyeJ7fbsganqCU_DFQG0WDpENJsh0/pubhtml?gid=0%3Dtrue[De en Het words]
  ** https://www.duolingo.com/comment/3732938/Grammar-De-Het-Een[Duolingo - De Het Een]
