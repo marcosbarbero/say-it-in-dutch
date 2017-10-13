@@ -127,7 +127,10 @@ TIP: `leuk` is the last part of the sentense
 
   Hoe is je dag tot nu toe? [How is your day so far?]
 
-  Ik denk het wel. [I think so]
+  Dat denk ik [I think so]
+  >Ik denk het wel.
+
+  Bel je mij? [Will you call me?]
 
 === Inviting someone
 
@@ -274,153 +277,92 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
 [cols="4*", options="header"]
 |===
-|Nederlands
-|Antonym
-|English
-|Antonym
+|Nederlands       |Antonym      |English      |Antonym
 
-|Duur
-|Goedkoop
-|Expensive
-|Cheap
+|Duur             |Goedkoop     |Expensive    |Cheap
 
-|Zwaar
-|Licht
-|Heavy
-|Light
+|Zwaar            |Licht        |Heavy        |Light
 
-|Snel
-|Langzaam
-|Fast
-|Slow
+|Snel             |Langzaam     |Fast         |Slow
 
-|Lang
-|Kort
-|Long
-|Short
+|Lang             |Kort         |Long         |Short
 
-|Vers
-|Oud
-|Fresh
-|Old
+|Vers             |Oud          |Fresh        |Old
 
-|Lekker
-|Vies
-|Tasty
-|Nasty
+|Lekker           |Vies         |Tasty        |Nasty
 
-|Groot
-|Klein
-|Big
-|Small
+|Groot            |Klein        |Big          |Small
 
-|Hoog
-|Laag
-|Tall
-|Little
+|Hoog             |Laag         |Tall         |Little
 
-|Gelukkig
-|Jammer
-|Nice
-|Pitty
+|Gelukkig         |Jammer       |Nice         |Pitty
 
-|Open
-|Open
-|Dicht
-|Close
+|Open             |Open         |Dicht        |Close
 
-|Warm
-|Warm
-|Koud
-|Cold
+|Warm             |Warm         |Koud         |Cold
 
-|Makkelijk
-|Easy
-|Moeilijk
-|Difficult
+|Makkelijk        |Easy         |Moeilijk     |Difficult
 |===
 
 == Random
 
 [cols="2*", options="header"]
 |===
-|Nederlands
-|English
+|Nederlands   |English
 
-|Leuk
-|Nice/Good
+|Leuk         |Nice/Good
 
-|Mooi
-|Beautiful
+|Mooi         |Beautiful
 
-|Interessant
-|Interesting
+|Interessant  |Interesting
 
-|Uitstekend
-|Excellent
+|Uitstekend   |Excellent
 
-|Prima
-|-
+|Prima        |-
 
-|Jammer
-|Pitty
+|Jammer       |Pitty
 
-|Ongeveer
-|About - more or less
+|Ongeveer     |About - more or less
 
-|Getrouwd
-|Married
+|Getrouwd     |Married
 
-|Fijne
-|Nice
+|Fijne        |Nice
 
-|Natuurlijk
-|Of course
+|Natuurlijk   |Of course
 
-|Fiets
-|Bike
+|fiets        |Bike
 
-|Tafel
-|Table
+|Tafel        |Table
 
-|Schoen
-|Shoes
+|Schoen       |Shoes
 
-|Tas
-|Bag
+|Tas          |Bag
 
-|Pen
-|Pen
+|Pen          |Pen
 
-|Huis
-|House
+|Huis         |House
 
-|Stoel
-|Chair
+|Stoel        |Chair
 
-|Auto
-|Car
+|Auto         |Car
 
-|Boek
-|Book
+|Boek         |Book
 
-|Hond
-|Dog
+|Hond         |Dog
 
-|Brood
-|Bread
+|Brood        |Bread
 
-|Melk
-|Milk
+|Melk         |Milk
 
-|Precies
-|Exactly
+|Precies      |Exactly
 
-|Dichtbij
-|Close by
+|Dichtbij     |Close by
 
-|Dier
-|Animal
+|Dier         |Animal
+
+|Bass         |Boss
+
+|Tekenen      |To draw
 |===
 
 TIP: Leuk -> Geweldig / Fantastisch
