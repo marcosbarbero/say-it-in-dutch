@@ -448,7 +448,7 @@ TIP: In plural everything is `De`
  ** Class 2017-10-11
  *** link:assets/images/2017-10-11_01.png[01]
  *** link:assets/images/2017-10-11_02.png[02]
- ** link:assets/images/2017-10-12[Class 2017-10-12]
+ ** link:assets/images/2017-10-12.png[Class 2017-10-12]
  * Grammar
  ** https://docs.google.com/spreadsheets/u/1/d/16nwvPSaCviwOaDuyeJ7fbsganqCU_DFQG0WDpENJsh0/pubhtml?gid=0%3Dtrue[De en Het words]
  ** https://www.duolingo.com/comment/3732938/Grammar-De-Het-Een[Duolingo - De Het Een]
