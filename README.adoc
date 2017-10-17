@@ -399,7 +399,8 @@ TIP: Leuk -> Geweldig / Fantastisch
 
 == Grammar
 
-Grammar rule section.
+.Grammar rule section
+  - The conjunction `ng` doesn't has the `throat` sound. Only for few cases it keeps the usual `g-throat` sound, e.g.: ongeveer
 
 === Het words
 
