@@ -279,15 +279,6 @@ image::2017-10-11_01.png[]
   - U
   - Menner / Mevrow
 
-== Geen & Niet
-
-Use `geen` for things and `niet` for adjectives, e.g.:
-
-  Ik heb nog geen huis.
-  De pen is niet groot.
-
-  Ik eet geen vis.
-
 == Antonym
 
 [cols="4*", options="header"]
@@ -400,9 +391,47 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 |Onbekend     |Unknown
 
 |De mens      |Human being
+
+|Merk         |Brand
 |===
 
 TIP: Leuk -> Geweldig / Fantastisch
+
+== Grammar
+
+Grammar rule section.
+
+=== Het words
+
+* Het huis
+* Het boek
+* Het brood
+* Het plafond
+* Het gordijn
+* Het fantastisch
+* Het park
+* Het station
+* Het bier
+* Het weer
+
+=== Plural
+
+image::2017-10-16_03.png[, 600, 450]
+
+[TIP]
+====
+ - In plural everything is `De`, e.g.: Het Boek -> De boeken
+ - Diminutive and words with two syllable adds s
+====
+
+=== Geen & Niet
+
+Use `geen` for things and `niet` for adjectives, e.g.:
+
+  Ik heb nog geen huis.
+  De pen is niet groot.
+
+  Ik eet geen vis.
 
 == Objects
 
@@ -441,7 +470,6 @@ image::2017-10-09.png[]
   De gordijnen zijn wit
   >Ze zijn wit
 
-
 == Human Body
 
 image::2017-10-16_01.png[]
@@ -467,21 +495,6 @@ image::2017-10-16_02.png[]
 
   De pizza ruikt lekker! [The pizza smells good!]
 
-== Het words
-
-* Het huis
-* Het boek
-* Het brood
-* Het plafond
-* Het gordijn
-* Het fantastisch
-* Het park
-* Het station
-* Het bier
-* Het weer
-
-TIP: In plural everything is `De`
-
 == Links
 
  * Classes
@@ -492,6 +505,10 @@ TIP: In plural everything is `De`
  *** link:assets/images/2017-10-11_01.png[01]
  *** link:assets/images/2017-10-11_02.png[02]
  ** link:assets/images/2017-10-12.png[Class 2017-10-12]
+ ** Class 2017-10-16
+ *** link:assets/images/2017-10-16_01.png[01]
+ *** link:assets/images/2017-10-16_02.png[02]
+ *** link:assets/images/2017-10-16_03.png[03]
  * Grammar
  ** https://docs.google.com/spreadsheets/u/1/d/16nwvPSaCviwOaDuyeJ7fbsganqCU_DFQG0WDpENJsh0/pubhtml?gid=0%3Dtrue[De en Het words]
  ** https://www.duolingo.com/comment/3732938/Grammar-De-Het-Een[Duolingo - De Het Een]
