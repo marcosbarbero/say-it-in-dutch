@@ -10,26 +10,30 @@ Just a repo to place few notes from dutch lessons.
 |===
 | - | - | - | - | - | - | - | - | - | - | - | -
 
-| 0 |nul  | 10 |tien     | 20 |twintig       | 30 |dertig        | 40 |veertig       | 50   |vijftig
+| 0 |nul  | 10 |tien     | 20 |twintig       | 30   |dertig
 
-| 1 |een  | 11 |elf      | 21 |eenentwintig  | 31 |eenendertig   | 41 |eenenveertig  | 60   |zestig
+| 1 |een  | 11 |elf      | 21 |eenentwintig  | 40   |veertig
 
-| 2 |twee | 12 |twaalf   | 22 |tweenentwintig| 32 |tweeendertig  | 42 |tweeenveertig | 70   |zeventig
+| 2 |twee | 12 |twaalf   | 22 |tweenentwintig| 50   |vijftig
 
-| 3 |drie | 13 |dertien  | 23 |drieentwintig | 33 |drieendertig  | 43 |drieenveertig | 80   |tachtig
+| 3 |drie | 13 |dertien  | 23 |drieentwintig | 60   |zestig
 
-| 4 |vier | 14 |viertien | 24 |vierentwintig | 34 |vierendertig  | 44 |viereenveertig| 90   |negentig
+| 4 |vier | 14 |viertien | 24 |vierentwintig | 70   |zeventig
 
-| 5 |vijf | 15 |vijftien | 25 |vijfentwintig | 35 |vijfendertig  | 45 |vijfenveertig | 100  |honderd
+| 5 |vijf | 15 |vijftien | 25 |vijfentwintig | 80   |tachtig
 
-| 6 |zes  | 16 |zestien  | 26 |zesentwintig  | 36 |zesendertig   | 46 |zesenveertig  | 113  |honderddertien
+| 6 |zes  | 16 |zestien  | 26 |zesentwintig  | 90   |negentig
 
-| 7 |zeven| 17 |zeventien| 27 |zevenentwintig| 37 |zevenendertirg| 47 |zevenenveertig| 152  |honderdtweeenvijftig
+| 7 |zeven| 17 |zeventien| 27 |zevenentwintig| 100  |honderd
 
-| 8 |acht | 18 |achttien | 28 |achtentwintig | 38 |achtendertig  | 48 |achtenveertig | 200  |tweehonderd
+| 8 |acht | 18 |achttien | 28 |achtentwintig | 200  |tweehonderd
 
-| 9 |negen| 19 |negentien| 29 |negenentwintig| 39 |negenendertig | 49 |negenenveertig| 1000 |duizend
+| 9 |negen| 19 |negentien| 29 |negenentwintig| 1000 |duizend
 |===
+
+ * 113 -> honderddertien
+ * 152 -> honderdtweeenvijftig
+ * 542 -> vijfhonderdtweeenveertig
 
 == Common questions / statements
 
