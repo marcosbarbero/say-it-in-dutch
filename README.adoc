@@ -31,7 +31,7 @@ Just a repo to store few notes from dutch lessons.
 | 9 |negen| 19 |negentien| 29 |negenentwintig| 39 |negenendertig | 49 |negenenveertig| 1000 |duizend
 |===
 
-== Common questions
+== Common questions / statements
 
   Wie ben jij? Hoe heet je? [Who are you? What's your name?]
   - Ik heet Marcos. En jij? [My name is Marcos. And yours?]
@@ -134,6 +134,12 @@ TIP: `leuk` is the last part of the sentense
 
   Ik had een band maar dat was tien jaar geleden.
 
+  Het weer is goed. [The weather is good]
+
+  Hoe ga jij naar de sportschool? Met de bus, trein, boot, fiets?
+
+  Eet smakelijk! [Enjoy your meal!]
+
 === Inviting someone
 
 image::2017-10-11_02.png[]
@@ -141,7 +147,7 @@ image::2017-10-11_02.png[]
   Ga je mee koffiedrinken?
   >Ga je mee naar het café?
   - Ja, een goed idee!
-  War gaan we koffiedrinken?
+  Waar gaan we koffiedrinken?
   - In een café
   Welk café?
   - In het centrum van Amsterdam
@@ -155,7 +161,7 @@ image::2017-10-11_02.png[]
   In het centrum van Amsterdam
 
   Wij gaan morgenochtend om tien uur in het park fietsen.
-  - En daarna? Zullen we daarna?
+  - En daarna? Zullen we lunch?
   Waar zullen wij lunchen?
   - Ken jij een leuk café? [Do you know...]
   Nee, maar wij vinden wel iets.
@@ -311,6 +317,8 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 |Warm             |Warm         |Koud         |Cold
 
 |Makkelijk        |Easy         |Moeilijk     |Difficult
+
+|Druk             |Busy         |Rustig       |Quiet / Calm
 |===
 
 == Random
@@ -386,6 +394,12 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 |Daarna       |After that / Afterwards
 
 |Iets         |Something
+
+|Weer         |Weather
+
+|Onbekend     |Unknown
+
+|De mens      |Human being
 |===
 
 TIP: Leuk -> Geweldig / Fantastisch
@@ -427,6 +441,32 @@ image::2017-10-09.png[]
   De gordijnen zijn wit
   >Ze zijn wit
 
+
+== Human Body
+
+image::2017-10-16_01.png[]
+image::2017-10-16_02.png[]
+
+  Wat kun je doen met je ogen?
+  - Met je ogen kun je kijken / zien.
+
+  Wat kun je doen met je oren?
+  - Met je oren kun je horen.
+
+  ... neus?
+  - ... ademen / niesen / ruiken [breath, sneeze, smell]
+
+  ... mond?
+  - ... eten / spreek / bijten
+
+  ... tong?
+  - ... likken / proeven
+
+  ... lippen?
+  - ... kussen
+
+  De pizza ruikt lekker! [The pizza smells good!]
+
 == Het words
 
 * Het huis
@@ -438,6 +478,7 @@ image::2017-10-09.png[]
 * Het park
 * Het station
 * Het bier
+* Het weer
 
 TIP: In plural everything is `De`
 
