@@ -8,7 +8,7 @@ Just a repo to place few notes from dutch lessons.
 == Telwoorden (Numbers)
 
 |===
-| - | - | - | - | - | - | - | - | - | - | - | -
+| - | - | - | - | - | - | - | -
 
 | 0 |nul  | 10 |tien     | 20 |twintig       | 30   |dertig
 
