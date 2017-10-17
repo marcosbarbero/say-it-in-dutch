@@ -3,7 +3,7 @@ Marcos Barbero <marcos.hgb@gmail.com>
 :toc:
 :imagesdir: assets/images
 
-Just a repo to store few notes from dutch lessons.
+Just a repo to place few notes from dutch lessons.
 
 == Telwoorden (Numbers)
 
