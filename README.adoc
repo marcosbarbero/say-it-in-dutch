@@ -2,8 +2,7 @@
 Marcos Barbero <marcos.hgb@gmail.com>
 :toc:
 :imagesdir: assets/images
-
-Just a repo to place few notes from dutch lessons.
+:summary: Just a repo to place few notes from dutch lessons.
 
 == Telwoorden (Numbers)
 
@@ -283,7 +282,11 @@ image::2017-10-11_01.png[]
   - U
   - Menner / Mevrow
 
-== Antonym
+== Vocabulary
+
+Vocabulary section
+
+=== Antonym
 
 [cols="4*", options="header"]
 |===
@@ -316,7 +319,8 @@ image::2017-10-11_01.png[]
 |Druk             |Busy         |Rustig       |Quiet / Calm
 |===
 
-== Random
+
+=== Random
 
 [cols="2*", options="header"]
 |===
