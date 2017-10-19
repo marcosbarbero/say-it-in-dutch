@@ -93,6 +93,7 @@ Marcos Barbero <marcos.hgb@gmail.com>
   Ik weet het niet [I don't know]
 
   Zit je klaar? [Are you ready?]
+  >zit je klaar? Ik wel. [Are you ready? I do]
 
   Je kunt mij bellen! [You can call me!]
 
@@ -111,7 +112,16 @@ TIP: for intensity use `heel erg`
   Vind jij dieren leuk?
   - Ja, ik vind dieren leuk
 
-TIP: `leuk` is the last part of the sentense
+  Ik vind thee lekker.
+  Ik vind koffie niet zo lekker.
+
+  Ik weet niet wat karnemelk is. [I don't know what karnemelk is]
+  Ik ken het niet. [I don't know it]
+
+  Het maakt niet uit. [It doesn't matter / Either is ok]
+  Geen van beide. [None of them]
+
+TIP: `leuk / lekker` is the last part of the sentense
 
   Ik vind het niet zo leuk
 
@@ -142,6 +152,8 @@ TIP: `leuk` is the last part of the sentense
   Hoe ga jij naar de sportschool? Met de bus, trein, boot, fiets?
 
   Eet smakelijk! [Enjoy your meal!]
+
+  Wat bedoel je? [What do you mean?]
 
 === Inviting someone
 
@@ -179,6 +191,22 @@ image::2017-10-11_02.png[]
  * Ken jij... -> Do you know...
 ====
 
+=== In het café
+
+image::2017-10-18_01.png[]
+image::2017-10-18_02.png[]
+image::2017-10-18_03.png[]
+
+  Wat heb je liever, koffie of thee?
+  - Ik heb liever koffie
+
+[NOTE]
+====
+ - Heb liever -> Prefer
+ - Drink liever -> Prefer
+ - Eet liever -> Prefer
+====
+
 === Time
 
 image::2017-10-11_01.png[]
@@ -210,7 +238,6 @@ image::2017-10-11_01.png[]
 
   Op welke dagen werk je?
   - Van maandag tot en met vrijdag
-
 
 [NOTE]
 ====
@@ -320,6 +347,11 @@ Vocabulary section
 |===
 
 
+Een vergadering -> Structured meeting
+Afspraak / Gesprek -> 1-2 people meeting
+
+  Veel afspraken vandaag. [A lot of meetings today]
+
 === Random
 
 [cols="2*", options="header"]
@@ -401,6 +433,12 @@ Vocabulary section
 |De mens      |Human being
 
 |Merk         |Brand
+
+|Allebei      |Both
+
+|Nooit        |Never
+
+|Trek         |Honger/Hunger
 |===
 
 TIP: Leuk -> Geweldig / Fantastisch
@@ -490,17 +528,17 @@ image::2017-10-16_02.png[]
   Wat kun je doen met je oren?
   - Met je oren kun je horen.
 
-  ... neus?
-  - ... ademen / niesen / ruiken [breath, sneeze, smell]
+  Wat kun je doen met je neus?
+  - Met je ademen / niesen / ruiken [breath, sneeze, smell]
 
-  ... mond?
-  - ... eten / spreek / bijten
+  Wat kun je doen met je mond?
+  - eten / spreek / bijten
 
-  ... tong?
-  - ... likken / proeven
+  Wat kun je doen met je tong?
+  - likken / proeven
 
-  ... lippen?
-  - ... kussen
+  Wat kun je doen met je lippen?
+  - kussen
 
   De pizza ruikt lekker! [The pizza smells good!]
 
@@ -518,6 +556,10 @@ image::2017-10-16_02.png[]
  *** link:assets/images/2017-10-16_01.png[01]
  *** link:assets/images/2017-10-16_02.png[02]
  *** link:assets/images/2017-10-16_03.png[03]
+ ** Class 2017-10-18
+ *** link:assets/images/2017-10-18_01.png[01]
+ *** link:assets/images/2017-10-18_02.png[02]
+ *** link:assets/images/2017-10-18_03.png[03]
  * Grammar
  ** https://docs.google.com/spreadsheets/u/1/d/16nwvPSaCviwOaDuyeJ7fbsganqCU_DFQG0WDpENJsh0/pubhtml?gid=0%3Dtrue[De en Het words]
  ** https://www.duolingo.com/comment/3732938/Grammar-De-Het-Een[Duolingo - De Het Een]
