@@ -91,6 +91,13 @@ Marcos Barbero <marcos.hgb@gmail.com>
   Ik snap het niet, kun je dat herhalen? [I didn't get it, can you repeat?]
 
   Ik weet het niet [I don't know]
+  >Ik ken het niet. [I don't know]
+
+[TIP]
+====
+ * Ken -> Used for things with an identification/name e.g.: People, Places.
+ * Weet -> Used for when someone asks for information.
+====
 
   Zit je klaar? [Are you ready?]
   >zit je klaar? Ik wel. [Are you ready? I do]
@@ -116,7 +123,6 @@ TIP: for intensity use `heel erg`
   Ik vind koffie niet zo lekker.
 
   Ik weet niet wat karnemelk is. [I don't know what karnemelk is]
-  Ik ken het niet. [I don't know it]
 
   Het maakt niet uit. [It doesn't matter / Either is ok]
   Geen van beide. [None of them]
@@ -155,6 +161,31 @@ TIP: `leuk / lekker` is the last part of the sentense
 
   Wat bedoel je? [What do you mean?]
 
+  Waar is dat? [Where's it?]
+
+  Hoe laat? [What time?]
+
+  Heb je goed geslapen? [Did you sleep well?]
+
+  Laten we gaan. [Let's go]
+
+  Even mijn jas pakken. [I'll just grab my coat]
+
+  Het is koud buiten, vind je niet? [It's cold outside, don't you think?]
+
+  Met de lift of met de trap? [By the elevator or by the stairs?]
+  - Met de trap, het is gezond! [By the stairs, it's healthy!]
+
+  We gaan naar beneden. [We are going downstairs]
+  We gann naar boven. [We are going upstairs]
+
+  Hoe lang heb jij les gehad? [How long did you have classes?]
+
+  Je moet naar Groningen gaan. [You must go to Groningen / You have to go to Groningen]
+
+  Gaat uw gang! [Go ahead!]
+  >Doe maar! [Go ahead!]
+
 === Inviting someone
 
 image::2017-10-11_02.png[]
@@ -180,6 +211,10 @@ image::2017-10-11_02.png[]
   Waar zullen wij lunchen?
   - Ken jij een leuk café? [Do you know...]
   Nee, maar wij vinden wel iets.
+
+  Kunnen we betalen? [Can we pay?]
+  >Kan ik afrekenen? [Can I have the bill?]
+  - Samen of apart. [Together or separately?]
 
 [TIP]
 ====
@@ -303,6 +338,7 @@ image::2017-10-11_01.png[]
  - Tot volgend jaar! _See you next year_
  - Tot later!
  - Tot woensdag!
+ - Tot dan!
 
 == Formal
 
@@ -439,6 +475,18 @@ Afspraak / Gesprek -> 1-2 people meeting
 |Nooit        |Never
 
 |Trek         |Honger/Hunger
+
+|Misschien    |Maybe
+
+|Jas          |Jacket/Coat
+
+|Pakken       |To grab
+
+|Buiten       |Outside
+
+|Niet meer    |Not anymore / No longer
+
+|Zoek         |Search
 |===
 
 TIP: Leuk -> Geweldig / Fantastisch
