@@ -326,6 +326,8 @@ image::2017-10-11_01.png[]
  - Goedemorgen
  - Goedemiddag
  - Goedenavond
+ - Welterusten
+ - Goedenatch
 
 == Say goodbye
 
@@ -487,6 +489,8 @@ Afspraak / Gesprek -> 1-2 people meeting
 |Niet meer    |Not anymore / No longer
 
 |Zoek         |Search
+
+|Maaltijd     |Meal
 |===
 
 TIP: Leuk -> Geweldig / Fantastisch
@@ -528,6 +532,62 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 
   Ik eet geen vis.
 
+=== Possessives
+
+[cols="2*", options="header"]
+|===
+|Nederlands   |Engels
+
+|Van mij      |Mine
+
+|Van jou      |Yours
+
+|Haar         |Her
+
+|Ons/Onze     |Our
+
+|Hun          |Their
+
+|Zijn         |Its
+
+|Jouw         |Your
+
+|Mijn         |My
+|===
+
+=== Adjectives
+
+[cols="2*", options="header"]
+|===
+|Nederlands   |Engels
+
+|Zacht        |Soft
+
+|Sware        |Difficult
+
+|Zwak         |Weak
+
+|Sterk        |Strong
+
+|Vol          |Full
+
+|Leeg         |Empty
+
+|Belangrijk   |Important
+
+|Zoet         |Sweet
+
+|Zuur         |Sour
+
+|Nat          |Wet
+
+|Droge        |Dry
+
+|Schone       |Clean
+
+|Dorst        |Thirsty
+|===
+
 == Objects
 
 .De kamer
@@ -553,6 +613,13 @@ TIP: It's also used `he` and `hij` for objects, e.g:
 
   De deur is open of dicht?
   - He is dicht!
+
+[cols="2*", options="header"]
+|===
+|Nederlands   |English
+
+|Bord         |Plate
+|===
 
 == Kleuren
 
@@ -589,6 +656,60 @@ image::2017-10-16_02.png[]
   - kussen
 
   De pizza ruikt lekker! [The pizza smells good!]
+
+== Dieren
+
+[cols="2*", options="header"]
+|===
+|Nederlands   |English
+
+|Kat          |Cat
+
+|Hond         |Dog
+
+|Paard        |Horse
+
+|Vogel        |Bird
+
+|Muis         |Mouse
+
+|Koe          |Cow
+
+|Eend         |Duck
+
+|Hert         |Deer
+
+|Schaap       |Sheep
+
+|Beer         |Bear
+
+|Spin         |Spider
+
+|Konijn       |Rabbit
+
+|Schilpad     |Turtle
+
+|Gans         |Goose
+|===
+
+== Clothing
+
+[cols="2*", options="header"]
+|===
+|Nederlands   |English
+
+|==
+
+== Fruits
+
+[cols="2*", options="header"]
+|===
+|Nederlands   |English
+
+|Aardbei      |Strawberry
+
+|Citroen      |Lemon
+|===
 
 == Links
 
