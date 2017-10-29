@@ -588,6 +588,9 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 |Dorst        |Thirsty
 |===
 
+=== Verbs
+
+
 == Objects
 
 .De kamer
