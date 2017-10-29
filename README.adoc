@@ -698,7 +698,7 @@ image::2017-10-16_02.png[]
 |===
 |Nederlands   |English
 
-|==
+|===
 
 == Fruits
 
