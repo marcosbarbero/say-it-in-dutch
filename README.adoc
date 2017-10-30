@@ -34,6 +34,20 @@ Marcos Barbero <marcos.hgb@gmail.com>
  * 152 -> honderdtweeenvijftig
  * 542 -> vijfhonderdtweeenveertig
 
+=== Ordinal Numbers
+
+|===
+|Nederlands |English
+
+|Eerste     |First
+
+|Tweede     |Second
+
+|Derde      |Third
+
+|Vierde     |Fourth
+|===
+
 == Common questions / statements
 
   Wie ben jij? Hoe heet je? [Who are you? What's your name?]
@@ -167,6 +181,8 @@ TIP: `leuk / lekker` is the last part of the sentense
 
   Heb je goed geslapen? [Did you sleep well?]
 
+  We kunnen gaan! [We can go]
+
   Laten we gaan. [Let's go]
 
   Even mijn jas pakken. [I'll just grab my coat]
@@ -185,6 +201,14 @@ TIP: `leuk / lekker` is the last part of the sentense
 
   Gaat uw gang! [Go ahead!]
   >Doe maar! [Go ahead!]
+
+  Ik bedoel afgelopen week. [I mean last week]
+
+  over.... gesproken ----
+  E.g: Over koffie gesproken, ga je mee koffiedrinken?
+
+  Aan de overkant [Crossing the street - or something like that hahaha]
+  >Hier tegenover
 
 === Inviting someone
 
@@ -215,6 +239,22 @@ image::2017-10-11_02.png[]
   Kunnen we betalen? [Can we pay?]
   >Kan ik afrekenen? [Can I have the bill?]
   - Samen of apart. [Together or separately?]
+
+
+  Wat wil je drinken?
+
+  Wil je iets eten? [Do you want to eat something?]
+
+  Wat wil je eten?
+
+  Neem jij ook een tosti?
+  - Doe mij maar kaas
+
+  Gewone koffie?
+  - ja
+  Gaat u maar zitten, ik breng het zo.
+
+  Werk jij hiervoor op een andere plaats?
 
 [TIP]
 ====
@@ -247,6 +287,14 @@ image::2017-10-18_03.png[]
 image::2017-10-11_01.png[]
 
   Wij gaan vanavond om zeven uur koffiedinken
+
+|===
+|Nederlands   |English
+
+|Gisteravond  |Last night
+
+|'s morgens   |Every morning
+|===
 
 [TIP]
 ====
@@ -491,7 +539,28 @@ Afspraak / Gesprek -> 1-2 people meeting
 |Zoek         |Search
 
 |Maaltijd     |Meal
+
+|Vervelend    |Annoying
+
+|Soms         |Sometimes
+
+|Gewone       |Normal
+
+|Hievoor      |Before
+
+|Baan         |Job
+
+|Geluk        |Luck
+
+|Secretaresse |Secretary
+
+|Verdieping   |Floor
+
+|Tijd         |Time
 |===
+
+Nooit - Soms     - Vaak  - Altijd
+Never - Somtimes - Often - Always
 
 TIP: Leuk -> Geweldig / Fantastisch
 
@@ -589,6 +658,9 @@ Use `geen` for things and `niet` for adjectives, e.g.:
 |===
 
 === Verbs
+
+==== Present
+
 
 
 == Objects
