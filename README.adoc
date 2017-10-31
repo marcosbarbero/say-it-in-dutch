@@ -562,7 +562,7 @@ Afspraak / Gesprek -> 1-2 people meeting
 |===
 
 Nooit - Soms     - Vaak  - Altijd +
-Never - Somtimes - Often - Always
+Never - Sometimes - Often - Always
 
 TIP: Leuk -> Geweldig / Fantastisch
 
