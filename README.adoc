@@ -430,6 +430,8 @@ Vocabulary section
 |Makkelijk        |Easy         |Moeilijk     |Difficult
 
 |Druk             |Busy         |Rustig       |Quiet / Calm
+
+|Zwak             |Weak         |Sterk        |Strong
 |===
 
 
